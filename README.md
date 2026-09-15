@@ -93,3 +93,21 @@ Dashboard screenshots are available in the `Dashboard` folder.
 The analysis shows strong overall sales performance, but profitability can be improved by controlling excessive discounts and investigating loss-making products.
 The business should focus on profitable products, review the performance of the Tables sub-category, and strengthen relationships with high-value customers.
 Overall, the analysis provides actionable insights that can help ShopSphere India improve profitability, make better pricing decisions, and support data-driven business growth.
+
+## Dashboard Preview
+
+### 1. Executive Overview
+
+![Executive Overview](Dashboard/01_Executive_Overview.png)
+
+### 2. Product & Profit Analysis
+
+![Product & Profit Analysis](Dashboard/02_Product_Profit_Analysis.png)
+
+### 3. Customer & Regional Analysis
+
+![Customer & Regional Analysis](Dashboard/03_Customer_Regional_Analysis.png)
+
+### 4. Business Insights
+
+![Business Insights](Dashboard/04_Business_Insights.png)
